@@ -1,0 +1,12 @@
+c:\users\ico\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\ico\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrimerIntento.exe.config
+c:\users\ico\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrimerIntento.exe
+c:\users\ico\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrimerIntento.pdb
+c:\users\ico\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrimerIntento.exe
+c:\users\ico\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrimerIntento.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrimerIntento.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrimerIntento.exe
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\PrimerIntento.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrimerIntento.exe
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\PrimerIntento.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

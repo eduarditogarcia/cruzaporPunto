@@ -3,8 +3,8 @@
 //CARRERA:INGENIERO EN COMPUTACIÓN
 //ALUMNO:EDUARDO FRANCISCO GARCIA GAMBOA
 //PROFESOR: ASDRUBAL LOPEZ CHAU
-//16 DE FEBRERO DEL 2018
-//DESCRIPCIÓN: Implementa la representación entera usando código gray. 
+//28 DE MARZO DEL 2018
+//DESCRIPCIÓN: CRUZA POR PUNT. 
 //El lenguaje de programación a usar es c#.
 using System;
 using System.Collections.Generic;
